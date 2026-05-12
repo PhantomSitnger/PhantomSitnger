@@ -1,8 +1,5 @@
 # 👋 Hello, I'm PhantomSitnger!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PhantomSitnger/PhantomSitnger/main/github-header-image.png" alt="GitHub Header" width="100%"/>
-</div>
 
 ## 🎓 BS Artificial Intelligence - 4th Semester
 
@@ -19,7 +16,7 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL"/>
 </div>
 
 ### **Frameworks & Technologies**
@@ -30,6 +27,8 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
   <img src="https://img.shields.io/badge/ROS2-34A5D0?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
 ### **Tools & Platforms**
@@ -116,10 +115,12 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
 - Supabase backend with modern frontend design
 
 **🚗 RideFlow - Smart Ride-Hailing Platform**
-- Multi-role system (Rider, Driver, Admin dashboards)
-- Real-time analytics and data visualization
-- Secure authentication and fleet management
-- RESTful API architecture with responsive design
+- Advanced database-driven ride-hailing system with complex SQL architecture
+- Comprehensive database design with normalized tables for users, trips, payments
+- Real-time database operations with optimized SQL queries and transactions
+- Multi-role system (Rider, Driver, Admin) with database-level access control
+- Database analytics and reporting with complex SQL aggregations
+- RESTful API with robust database integration and error handling
 
 ---
 
@@ -199,7 +200,7 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
   
 [![GitHub](https://img.shields.io/badge/GitHub-PhantomSitnger-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhantomSitnger)
 [![Email](https://img.shields.io/badge/Email-sameer909saadi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameer909saadi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammed_Sameer_Saadi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-sameer-saadi-258181342/)
 
 </div>
 
@@ -215,13 +216,6 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/PhantomSitnger/PhantomSitnger/main/footer.png" alt="Footer" width="100%"/>
-  
-  **"Code is poetry written in logic"**
-  
-  *Happy Coding! 🎉*
-</div>
 
 ---
 
