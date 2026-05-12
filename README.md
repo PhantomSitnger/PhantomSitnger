@@ -1,4 +1,4 @@
-# 👋 Hello, I'm PhantomSitnger!
+# 👋 Hello, I'm M. Sameer Saadi!
 
 
 ## 🎓 BS Artificial Intelligence - 4th Semester
