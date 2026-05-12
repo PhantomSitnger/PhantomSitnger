@@ -54,65 +54,39 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
 
 ### **🤖 AI & Computer Vision**
 
-<a href="https://github.com/PhantomSitnger/ai-robot-paperball-detector">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=ai-robot-paperball-detector&theme=tokyonight&hide_border=true" alt="AI Robot Paper Ball Detector"/>
-  </div>
-</a>
-
 **🔍 AI Robot Paper Ball Detector**
 - Computer vision system using OpenCV and YOLO
 - Real-time object detection and tracking
 - Raspberry Pi integration for embedded deployment
 - Custom dataset training and model optimization
+- 🔗 [View Project](https://github.com/PhantomSitnger/ai-robot-paperball-detector)
 
 ---
 
 ### **🎮 Games & Interactive Systems**
 
-<a href="https://github.com/PhantomSitnger/wordshooter-game">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=wordshooter-game&theme=tokyonight&hide_border=true" alt="WordShooter Game"/>
-  </div>
-</a>
-
-<a href="https://github.com/PhantomSitnger/rush-hour-cpp">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=rush-hour-cpp&theme=tokyonight&hide_border=true" alt="Rush Hour C++"/>
-  </div>
-</a>
-
 **🎯 WordShooter Game**
 - OpenGL-based word puzzle game with C++
 - Real-time graphics rendering and input handling
 - Custom game engine and physics simulation
+- 🔗 [View Project](https://github.com/PhantomSitnger/wordshooter-game)
 
 **🚗 Rush Hour Puzzle**
 - Classic sliding block puzzle implementation
 - Both C++ and Assembly language versions
 - Algorithmic problem-solving and optimization
+- 🔗 [View Project](https://github.com/PhantomSitnger/rush-hour-cpp)
 
 ---
 
 ### **🌐 Web Applications & Systems**
-
-<a href="https://github.com/PhantomSitnger/unisync-app">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=unisync-app&theme=tokyonight&hide_border=true" alt="UniSync App"/>
-  </div>
-</a>
-
-<a href="https://github.com/PhantomSitnger/rideflow-ride-hailing">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=rideflow-ride-hailing&theme=tokyonight&hide_border=true" alt="RideFlow"/>
-  </div>
-</a>
 
 **🎓 UniSync - University Club Management**
 - Full-stack web application for university club management
 - Real-time collaboration and communication features
 - Role-based access control and administrative tools
 - Supabase backend with modern frontend design
+- 🔗 [View Project](https://github.com/PhantomSitnger/unisync-app)
 
 **🚗 RideFlow - Smart Ride-Hailing Platform**
 - Advanced database-driven ride-hailing system with complex SQL architecture
@@ -121,60 +95,39 @@ Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fa
 - Multi-role system (Rider, Driver, Admin) with database-level access control
 - Database analytics and reporting with complex SQL aggregations
 - RESTful API with robust database integration and error handling
+- 🔗 [View Project](https://github.com/PhantomSitnger/rideflow-ride-hailing)
 
 ---
 
 ### **⚙️ Systems & Data Processing**
-
-<a href="https://github.com/PhantomSitnger/financial-tick-processor">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=financial-tick-processor&theme=tokyonight&hide_border=true" alt="Financial Tick Processor"/>
-  </div>
-</a>
-
-<a href="https://github.com/PhantomSitnger/movies-data-manager">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=movies-data-manager&theme=tokyonight&hide_border=true" alt="Movies Data Manager"/>
-  </div>
-</a>
 
 **💹 Financial Tick Data Processing Pipeline**
 - High-performance multi-process, multi-threaded system
 - Real-time financial data processing with C++11
 - Shared memory IPC and semaphore synchronization
 - VWAP, High/Low, Volume calculations with sub-millisecond latency
+- 🔗 [View Project](https://github.com/PhantomSitnger/financial-tick-processor)
 
 **🎬 Movies Data Manager**
 - Advanced data structures implementation (AVL trees, Hash Tables, Graphs)
 - Efficient movie metadata storage and retrieval
 - CSV parsing and large-scale data management
 - Algorithmic optimization and performance analysis
+- 🔗 [View Project](https://github.com/PhantomSitnger/movies-data-manager)
 
 ---
 
 ### **🤖 Robotics & Embedded Systems**
-
-<a href="https://github.com/PhantomSitnger/ros2-maze-solver">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhantomSitnger&repo=ros2-maze-solver&theme=tokyonight&hide_border=true" alt="ROS2 Maze Solver"/>
-  </div>
-</a>
 
 **🗺️ ROS2 Autonomous Maze Solver**
 - ROS2-based autonomous robot navigation system
 - SLAM (Simultaneous Localization and Mapping)
 - Path planning algorithms and obstacle avoidance
 - Gazebo simulation and real robot deployment
+- � [View Project](https://github.com/PhantomSitnger/ros2-maze-solver)
 
 ---
 
-## 📈 **Development Activity**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PhantomSitnger&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
----
 
 ## 📚 **Learning Journey**
 
