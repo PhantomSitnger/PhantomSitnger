@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/PhantomSitnger/PhantomSitnger/main/github-header-image.png" alt="GitHub Header" width="100%"/>
 </div>
 
-## 🚀 Full-Stack Developer & Systems Engineer
+## 🎓 BS Artificial Intelligence - 4th Semester
 
-Passionate about building innovative solutions across multiple domains - from embedded systems and computer vision to web applications and financial systems. I love tackling complex challenges and turning ideas into reality through clean, efficient code.
+Currently pursuing my Bachelor's in Artificial Intelligence and exploring the fascinating world of programming, algorithms, and emerging technologies. I'm passionate about building projects and learning through hands-on experience with different technologies and domains.
 
 ---
 
@@ -175,21 +175,21 @@ Passionate about building innovative solutions across multiple domains - from em
 
 ---
 
-## 🏆 **Achievements & Skills**
+## 📚 **Learning Journey**
 
-### **Core Competencies**
-- 🔧 **Systems Programming**: Low-level optimization, memory management, performance tuning
-- 🤖 **Computer Vision**: Object detection, image processing, neural networks
-- 🌐 **Full-Stack Development**: Frontend, backend, database design, API development
-- ⚡ **High-Performance Computing**: Multi-threading, parallel processing, real-time systems
-- 🤖 **Robotics**: ROS2, SLAM, path planning, sensor integration
-- 📊 **Data Engineering**: Large-scale data processing, analytics, optimization
+### **Current Focus Areas**
+- 🔧 **Programming Fundamentals**: Learning C++, Python, and JavaScript
+- 🤖 **AI & Machine Learning**: Exploring computer vision and neural networks
+- 🌐 **Web Development**: Building interactive applications with modern frameworks
+- ⚡ **Data Structures**: Understanding algorithms and optimization techniques
+- 🤖 **Robotics**: Getting started with ROS2 and autonomous systems
+- 📊 **Problem Solving**: Developing analytical thinking and debugging skills
 
-### **Problem-Solving Approach**
-- Analytical thinking with attention to detail
-- Systematic debugging and optimization
-- Creative solutions to complex technical challenges
-- Strong foundation in algorithms and data structures
+### **What I'm Learning**
+- Building projects to understand concepts better
+- Exploring different programming paradigms
+- Learning through hands-on experimentation
+- Growing my understanding of software development
 
 ---
 
@@ -205,13 +205,13 @@ Passionate about building innovative solutions across multiple domains - from em
 
 ---
 
-## 📝 **Current Focus**
+## 📝 **Current Learning Goals**
 
-- 🚀 Exploring advanced robotics and autonomous systems
-- 🧠 Deep learning applications in computer vision
-- ⚡ High-performance financial computing systems
-- 🌐 Building scalable web applications with modern architectures
-- 📚 Continuous learning and skill development
+- 🚀 Getting better at robotics and autonomous systems
+- 🧠 Understanding machine learning and computer vision concepts
+- ⚡ Learning about efficient algorithms and data structures
+- 🌐 Building more complex web applications
+- 📚 Strengthening my programming fundamentals
 
 ---
 
@@ -225,8 +225,8 @@ Passionate about building innovative solutions across multiple domains - from em
 
 ---
 
-## 📊 **Profile Summary**
+## 📊 **Learning Progress**
 
-| 📁 **Projects** | 🎯 **Technologies** | ⭐ **Stars** | 🍴 **Forks** |
-|----------------|---------------------|-------------|-------------|
-| 9+ Projects | 15+ Technologies | Growing | Active |
+| 📁 **Projects Built** | 🎯 **Technologies Explored** | 📚 **Current Semester** | � **Goals** |
+|---------------------|---------------------------|---------------------|-------------|
+| 9+ Learning Projects | 15+ Technologies | 4th Semester BS AI | Keep Building & Learning |
